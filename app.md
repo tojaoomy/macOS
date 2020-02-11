@@ -11,6 +11,7 @@
 * [Homebrew](http://brew.sh) - macOS 缺失的软件包管理器！使用 Homebrew 安装 Apple 没有预装但 [你需要的东西](https://github.com/Homebrew/homebrew-core/tree/master/Formula)
 * [Timing](http://timingapp.com) - 统计 Mac 使用习惯，每天做了什么
 * [Default Folder X](http://www.stclairsoft.com/DefaultFolderX/) - 快速定位/选择常用文件夹
+* [clipy] https://clipy.en.softonic.com/mac 复制粘贴
 * [PopClip](http://pilotmoon.com/popclip/) - 最基本的功能即用鼠标选中一段文字就可以做复制粘贴的动作，省去了我们平时 Command+C or V 的麻烦，但这个工具真正强大之处在于它的拓展功能 [PopClip Extensions](http://pilotmoon.com/popclip/extensions/) 的使用
 * [OmniFocus](https://www.omnigroup.com/omnifocus/) - 整合了提醒事项、日程、备注注释这些基础的管理功能，而且从事务驱动的层面给予了更多的选择，可以基于分类、时间线、完成度、截至日期、执行对象等等条件推进和管理事务，使得整个管理过程既有组织、条理，也能相互协调
 * [Moom](https://manytricks.com/moom/) - 窗口控制器
